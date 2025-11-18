@@ -1,7 +1,6 @@
 # Debian 12 “Bookworm” Installation Steps
 
 ## 1 Prepare for Installation
-
 Download the Deban 12 “Bookworm” ISO from official [Debian website](https://www.debian.org/). Select the appropriate ISO for your computer. 
 You can go for the full DVD version or netinst version of the ISO.
 
