@@ -7,7 +7,7 @@ You can go for the full DVD version or netinst version of the ISO.
 ## 2 Audience & Scope
 
 ### 2.1 Who this is for
-This guide is intented for system dministrations or uses familiar with basic system hardware BIOS/UEFI setup, who wish to install Debian 12 as a workstation OS.
+This guide is intented for system administrations or users familiar with basic system hardware BIOS/UEFI setup, who wish to install Debian 12 OS.
 
 ### 2.2 What this covers
 * Downoading and verifying Debain 12 installation media 
