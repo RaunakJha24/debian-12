@@ -78,6 +78,6 @@ Now, you need to select the User account and password for your system.
 * You can eject the USB once you see the prompt on the screen.
 
 ## 6 Boot into Debian
-* Now, the system the boot for the first time into Debian, you need to complete the process.
+* Now, the system will boot for the first time into Debian.
 * Finally, you will be asked for the user password. 
 
