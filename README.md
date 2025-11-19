@@ -13,7 +13,7 @@ This guide is intended for system administrators or users familiar with basic sy
 * Downloading and verifying Debain 12 installation media 
 * Creating a bootable USB installation drive
 * Booting the installer
-* Bsasic installation: partitioning, user setup, software selection
+* Basic installation: partitioning, user setup, software selection
 * First-boot and initial configuration
 
 ## 3 Prerequisites
